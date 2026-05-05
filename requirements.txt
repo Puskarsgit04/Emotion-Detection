@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+tensorflow-cpu
+numpy
+pillow
+streamlit-webrtc
+av
+google-generativeai
+groq
